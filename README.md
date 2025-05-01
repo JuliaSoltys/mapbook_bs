@@ -1,1 +1,1 @@
-# mapbook_bs
+# mapbook_js
