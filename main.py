@@ -104,7 +104,7 @@ def show_user_details():
 
 root = Tk()
 
-root.title('mapbook_bs')
+root.title('mapbook_js')
 root.geometry('1200x800')
 
 ramka_lista_obiektow = Frame(root)
